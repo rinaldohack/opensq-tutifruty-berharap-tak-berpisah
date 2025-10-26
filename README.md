@@ -15,7 +15,7 @@ Tujuannya untuk membantu penampilan live, latihan, atau produksi kreatif lainnya
 
 ## Download
 - 🔗 SQ Part (Kunci E): [Berharap Tak Berpisah SQ E.mp3](https://github.com/rinaldohack/opensq-tutifruty-berharap-tak-berpisah/raw/refs/heads/main/Berharap%20Tak%20Berpisah%20SQ%20E.mp3)
-- - 🔗 SQ Part (Kunci E): [Berharap Tak Berpisah SQ A.mp3](https://github.com/rinaldohack/opensq-tutifruty-berharap-tak-berpisah/raw/refs/heads/main/Berharap%20Tak%20Berpisah%20SQ%20A.mp3)
+- 🔗 SQ Part (Kunci E): [Berharap Tak Berpisah SQ A.mp3](https://github.com/rinaldohack/opensq-tutifruty-berharap-tak-berpisah/raw/refs/heads/main/Berharap%20Tak%20Berpisah%20SQ%20A.mp3)
 - 🔗 Percussion Part: [Berharap Tak Berpisah Perc.mp3](https://github.com/rinaldohack/opensq-tutifruty-berharap-tak-berpisah/blob/main/Berharap%20Tak%20Berpisah%20Perc.mp3)
 
 ## Metode Pembuatan
